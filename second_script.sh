@@ -1,5 +1,5 @@
 #!/bin/bash 
-set -X
+set -x
 # this is the second example shell script which is being committed to git.
 #Jenkins should be able to pickup any changes to this repo every 5 mins and 
 # should start a build.
